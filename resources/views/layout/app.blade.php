@@ -22,7 +22,7 @@
     <link rel="stylesheet"
         href="{{ asset('css/style.css') }}">
     <link rel="stylesheet"
-        href="{{ asset('css/component.css') }}">
+        href="{{ asset('css/components.css') }}">
 
     <!-- Start GA -->
     <script async
